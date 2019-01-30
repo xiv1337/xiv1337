@@ -1,2 +1,2 @@
 # Boom1337
-project
+internal csgo project
