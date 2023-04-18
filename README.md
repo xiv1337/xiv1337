@@ -1,10 +1,13 @@
+「 powered by traphack 」
+
+<!---
+xiv1337/xiv1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 - 👋 Hi im xiv~ ...
 - 👀 I’m interested in cpp, c#, imgui ...
 - 🌱 I’m currently learning cpp aswell as reversing source engine games ...
 - 💞️ I’m looking to collaborate on CS:GO reversal and programming ...
 - 📫 Find out how to reach me ...
 
-<!---
-xiv1337/xiv1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
