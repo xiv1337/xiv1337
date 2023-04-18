@@ -1,4 +1,4 @@
-                                 「 powered by traphack 」
+                     「 powered by traphack 」
 
 <!---
 xiv1337/xiv1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
